@@ -4,7 +4,7 @@
 // 10/18/2026
 // This assignment is all four questions in one file.
 // The description of each question is in the comments above the code for that question.
-// Screenshots of the output for each question are in the Module_3/M3HW1/program_screenshots folder.
+// Screenshots of the output for each question are in the Module_3/M3HW1 folder, labeled per question.
 
 #include <iostream>
 #include <string>
