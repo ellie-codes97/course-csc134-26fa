@@ -1,6 +1,7 @@
 // CSC 134
 // M5T2 - More Practice with Functions
 // Ella Jackson
+// 11/8/2026
 // Partner: AI navigator - GitHub Copilot Chat
 // This program will print the numbers 1 to 10 with their squares, one line each
 
